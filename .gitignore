@@ -1,0 +1,14 @@
+# Kaggle data: keep local, do not version
+fase-1/data/*.csv
+!fase-1/data/README.md
+
+# Python/Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.DS_Store
+
+# Optional local artifacts
+*.log
