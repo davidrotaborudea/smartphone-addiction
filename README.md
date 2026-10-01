@@ -4,9 +4,8 @@ Proyecto integrador de Machine Learning basado en la competencia de Kaggle **Pre
 
 ## Integrantes
 
-- **[Completar nombre del integrante 1]**
-- **[Completar nombre del integrante 2]**
-- **[Completar nombre del integrante 3, si aplica]**
+- David Stiven Rodríguez Taborda
+- Juan Pablo Zuluaga Jaramillo
 
 ## Descripción del problema
 
@@ -100,12 +99,4 @@ Las transformaciones que aprenden parámetros están dentro de `Pipeline` y `Col
 
 Las importancias del modelo indican qué variables fueron útiles para sus predicciones, pero **no demuestran relaciones causales**. Las conclusiones se limitan al conjunto de datos utilizado y no deben interpretarse como un diagnóstico clínico.
 
-## Git Flow
 
-El repositorio debe mantener el flujo solicitado para el proyecto:
-
-- `main`: versiones estables y entregables.
-- `develop`: integración.
-- `feature/*`: desarrollo de tareas relevantes.
-
-Las contribuciones, commits y Pull Requests deben corresponder al trabajo real de los integrantes.
